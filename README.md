@@ -49,10 +49,10 @@ In this project, i have used DOM to manipulate the HTML and a function to genera
 
 Using javascript functions and DOM, The idea here was to create a counter-like functionality.
 
-<h4>#13-Converter-Currency </h4>
+<h4>#14-Converter-Currency </h4>
 
 Using an API and HTML/CSS, i created a currency converter using Javascript. 
 
-<h4>#14-Financial-Dashboard  </h4>
+<h4>#1-Financial-Dashboard  </h4>
 
 This was the hardest project until now. In this project we had to work with many DOM concepts and functions, but besides that, I think the big difference of this project is the organization necessary for it to work correctly. It was a very difficult project inspired by a youtube video.
